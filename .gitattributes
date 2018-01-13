@@ -1,0 +1,4 @@
+uto
+
+# Align with eslint linebreak-style: [ "error", "unix" ]
+*.js text eol=lf
